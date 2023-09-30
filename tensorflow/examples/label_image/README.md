@@ -97,3 +97,13 @@ academic gown 0.0103581
 pickelhaube 0.00800818
 bulletproof vest 0.0053509
 ```
+## Video Classification
+
+label_video.py is a python implementation that provides code corresponding to the C++ code here.
+
+Run 
+
+with tensorflow python package installed, you can run it like:
+```bash
+$ python3 tensorflow/examples/label_image/label_video.py
+```
