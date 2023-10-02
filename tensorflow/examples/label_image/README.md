@@ -99,11 +99,11 @@ bulletproof vest 0.0053509
 ```
 ## Video Classification
 
-label_video.py is a python implementation that provides code corresponding to the C++ code here.
+label_video.py is a Python implementation that provides code to run classification on video input.
 
 Run 
 
-with tensorflow python package installed, you can run it like:
+with TensorFlow python package installed, you can run it like:
 ```bash
 $ python3 tensorflow/examples/label_image/label_video.py
 ```
